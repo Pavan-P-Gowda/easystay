@@ -5,6 +5,9 @@
 }
 body{
     header{
-        
+        .nav{
+            background-color: aqua;
+            
+        }
     }
 }
